@@ -1,2 +1,2 @@
 # Test
-Changed username and verify if it reflects on slack
+Changed username from Ogbola09 to Miriam-Ajayi and confirming if it reflects on slack
